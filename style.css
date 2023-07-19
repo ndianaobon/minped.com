@@ -4,9 +4,6 @@
     outline: none;
     padding: 0;
 }
-body{
-    width: fit-content;
-}
 img {
 	height: 100%;
 	width: 100%;
@@ -14,7 +11,7 @@ img {
 }
 
 .main{
-    width: 100%;
+    width: 104%;
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(asset/images/background\ image.jpg);
     background-position: center;
     background-size: cover;
