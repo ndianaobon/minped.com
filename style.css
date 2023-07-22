@@ -50,12 +50,11 @@ img {
 }
 
 ul{
-    float: left;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
-    margin-left: 380px;
+    margin-left: 700px;
 }
 
 ul li{
